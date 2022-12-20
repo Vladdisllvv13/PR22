@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="fruits">
+        <item>Фрукты</item>
+        <item>Я спелое наливное яблоко, вот кто я!</item>
+        <item>Я слива лиловая, спелая, садовая!</item>
+        <item>А я абрикос, на юге рос!</item>
+    </string-array>
+</resources>
